@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "eatquestionmark",
+    "slug": "eatquestionmark",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "eatquestionmark"
+}
